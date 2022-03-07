@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mental Arifmetika</string>
+    <string name="murakkablik_darajasi">Murakkablik darajasi</string>
+    <string name="misollar_soni">Misollar soni:</string>
+    <string name="qatorlar_soni">Qatorlar soni:</string>
+    <string name="ajratilgan_vaqt">Ajratilgan vaqt:</string>
+    <string name="murojaat_uchun">Murojaat uchun :</string>
+    <string name="diqqat">Diqqat !</string>
+    <string name="tekshirish">Tekshirish</string>
+    <string name="qiymat_kiriting">Qiymat kiriting!</string>
+    <string name="javobini_kiriting">Javobini kiriting</string>
+    <string name="to_xtatish">To\'xtatish</string>
+    <string-array name="autoCompliteTextView">
+        <item>30 sekund</item>
+        <item>60 sekund</item>
+        <item>90 sekund</item>
+        <item>120 sekund</item>
+        <item>180 sekund</item>
+        <item>240 sekund</item>
+        <item>300 sekund</item>
+    </string-array>
+
+    <string name="uzbek">Uzbek</string>
+    <string name="kirill">Kirill</string>
+    <string name="english">English</string>
+    <string name="profils">Kelajak academy - farzandingiz kelajagini biz bilan quring. \n Bizni o\'quv markazimizda Abiturentlardan tashqari kichik yoshdagi bolalar uchun\n -Mental Arifmentika\n -Kompyuter savodxonligi\n -Ingliz tili kids\n -Web development kids\n -Boshqa qiziqarli yo\'nalishlar bo\'yicha 2- yillikdan ortiq tajribaga ega mutaxassilar shug\'ullanadi!\n\n Kelajak uchun ilk qadamni biz bilan tashlang!</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginRight="@dimen/_8sdp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+<TextView
+    android:layout_gravity="center"
+    android:id="@+id/tvID"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="1"
+    android:textSize="@dimen/_24sdp"
+    android:textColor="@color/black"
+    android:textStyle="bold"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyclerviewRow"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_60sdp">
+
+        <EditText
+            android:textSize="@dimen/_16sdp"
+            android:textColor="@color/black"
+            android:id="@+id/editmisol"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:inputType="phone" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".language.ChangeLanguageFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_8sdp"
+            android:text="@string/uzbek"
+            android:textColor="@color/white"
+            android:backgroundTint="#DD9D2C"
+            android:id="@+id/btnUzbek"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_8sdp"
+            android:text="@string/kirill"
+            android:textColor="@color/white"
+            android:backgroundTint="#DD9D2C"
+            android:id="@+id/btnKirill"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:backgroundTint="#DD9D2C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_margin="@dimen/_8sdp"
+            android:text="@string/english"
+            android:id="@+id/btnEnglish"/>
+
+    </LinearLayout>
+
+</FrameLayout>

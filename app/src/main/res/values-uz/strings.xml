@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Arifmetika</string>
+    <string name="murakkablik_darajasi">Мураккаблик даражаси</string>
+    <string name="misollar_soni">Мисоллар сони:</string>
+    <string name="qatorlar_soni">Қаторлар сони:</string>
+    <string name="ajratilgan_vaqt">Ажратилган вақт:</string>
+    <string name="murojaat_uchun">Мурожаат учун :</string>
+    <string name="diqqat">Диққат !</string>
+    <string name="tekshirish">Текшириш</string>
+    <string name="qiymat_kiriting">Қиймат киритинг!</string>
+    <string name="javobini_kiriting">Javobini kiriting</string>
+    <string name="to_xtatish">Тўхтатиш</string>
+    <string-array name="autoCompliteTextView">
+        <item>30 секунд</item>
+        <item>60 секунд</item>
+        <item>90 секунд</item>
+        <item>120 секунд</item>
+        <item>180 секунд</item>
+        <item>240 секунд</item>
+        <item>300 секунд</item>
+    </string-array>
+
+    <string name="uzbek">Узбек</string>
+    <string name="kirill">Кирилл</string>
+    <string name="english">Энглиш</string>
+    <string name="profils">Келажак аcадемй - фарзандингиз келажагини биз билан қуринг. \n Бизни ўқув марказимизда Абитурентлардан ташқари кичик ёшдаги болалар учун \n
+-Ментал Арифментика\n
+-Компютер саводхонлиги\n
+-Инглиз тили кидс\n
+-Веб девелопмент кидс\n
+-Бошқа қизиқарли йўналишлар бўйича 2- йилликдан ортиқ тажрибага эга мутахассилар шуғулланади!\n\n
+Келажак учун илк қадамни биз билан ташланг!</string>
+</resources>

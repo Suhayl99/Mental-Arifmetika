@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Arifmetika</string>
+    <string name="murakkablik_darajasi">Stages of complexity</string>
+    <string name="misollar_soni">how many examples:</string>
+    <string name="qatorlar_soni">how many rows:</string>
+    <string name="ajratilgan_vaqt">deadline:</string>
+    <string name="murojaat_uchun">contact :</string>
+    <string name="diqqat">Attention !</string>
+    <string name="tekshirish">Check</string>
+    <string name="qiymat_kiriting">Enter a value !</string>
+    <string name="javobini_kiriting">Enter the answer</string>
+    <string name="to_xtatish">Stop</string>
+    <string-array name="autoCompliteTextView">
+        <item>30 sekund</item>
+        <item>60 sekund</item>
+        <item>90 sekund</item>
+        <item>120 sekund</item>
+        <item>180 sekund</item>
+        <item>240 sekund</item>
+        <item>300 sekund</item>
+    </string-array>
+
+    <string name="uzbek">Uzbek</string>
+    <string name="kirill">Kirill</string>
+    <string name="english">English</string>
+    <string name="profils">Kelajak Academy - Build your child’s future with us.\n Contact us at our training center for young children in addition to applicants\n
+- Mental arithmetic\n
+-Computer literacy\n
+- English children\n
+- web development kids\n
+- Specialists with more than 2 years of experience in other interesting fields!\n\n
+Take the first step for the future with us!</string>
+</resources>
